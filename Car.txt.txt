@@ -1,5 +1,7 @@
 Bazi kodlar yazdim.
-Diger developer taskini tamamladi.
+Diger developer taskini tamamladim.
 
 Islemleri hizlandirmaliyiz.
 farkli kodlar yazdim.
+Bazi calismalar yaptim.
+
