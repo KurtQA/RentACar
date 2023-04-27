@@ -1,2 +1,5 @@
 Bazi kodlar yazdim.
 Diger developer taskini tamamladi.
+
+Islemleri hizlandirmaliyiz.
+farkli kodlar yazdim.
