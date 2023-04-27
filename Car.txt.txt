@@ -1,4 +1,4 @@
 Bazi kodlar yazdim.
 Diger developer taskini tamamladim.
 Bazi calismalar yaptim.
-
+remote da kodlar ekledim.
